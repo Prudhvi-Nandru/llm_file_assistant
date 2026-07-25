@@ -1,0 +1,17 @@
+Diana Patel
+Machine Learning Engineer
+
+Summary
+Machine learning engineer experienced in Python model training, evaluation,
+and deployment for document intelligence products.
+
+Skills
+Python, PyTorch, scikit-learn, pandas, MLflow, Docker
+
+Experience
+Built resume classification models for recruiting workflows.
+Created feature pipelines and model monitoring jobs.
+Partnered with product teams to evaluate model quality and bias.
+
+Education
+M.S. Data Science

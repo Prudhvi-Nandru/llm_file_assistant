@@ -1,0 +1,16 @@
+Bianca Lee
+Frontend Engineer
+
+Summary
+Frontend engineer focused on accessible React applications and design systems.
+
+Skills
+React, TypeScript, JavaScript, HTML, CSS, Jest, Playwright
+
+Experience
+Implemented reusable UI components for a SaaS dashboard.
+Partnered with designers to improve keyboard navigation and color contrast.
+Reduced page load time by optimizing bundle size and image delivery.
+
+Education
+B.A. Interactive Media

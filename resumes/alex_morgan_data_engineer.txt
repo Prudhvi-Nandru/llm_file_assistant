@@ -1,0 +1,17 @@
+Alex Morgan
+Data Engineer
+
+Summary
+Data engineer with six years of experience building Python and SQL pipelines
+for analytics teams.
+
+Skills
+Python, SQL, Airflow, Spark, AWS Glue, Docker
+
+Experience
+Built batch and streaming data pipelines for customer analytics.
+Improved daily ETL reliability from 92 percent to 99.5 percent.
+Created data quality checks and alerting for production workflows.
+
+Education
+B.S. Computer Science

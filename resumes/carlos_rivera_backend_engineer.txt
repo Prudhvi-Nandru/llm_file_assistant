@@ -1,0 +1,17 @@
+Carlos Rivera
+Backend Engineer
+
+Summary
+Backend engineer with strong Python, API design, and cloud deployment
+experience.
+
+Skills
+Python, FastAPI, PostgreSQL, Redis, Kubernetes, OpenTelemetry
+
+Experience
+Designed REST APIs for payment and billing workflows.
+Led migration from a monolith to containerized services.
+Added observability dashboards that reduced incident triage time.
+
+Education
+B.S. Software Engineering
