@@ -3,11 +3,6 @@
 Python file assistant for reading, searching, listing, and writing resume files
 through structured tools that can be called by an LLM.
 
-## Submission Note
-
-I have developed the required file-system tools, LLM integration, sample data,
-documentation, and tests according to the assignment criteria.
-
 ## Features
 
 - Read `.txt`, `.pdf`, and `.docx` resume files.
